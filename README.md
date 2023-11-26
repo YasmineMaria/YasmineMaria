@@ -1,7 +1,10 @@
 ### Life is not a 100-meter race; it is a marathon!
-### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡°✩˖°.🪐°. ⋆ ･:
+### 🎈
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Summary</title>
+</head>
 <body>
   <ul>
     <li>|____ Education and Training
@@ -25,6 +28,14 @@
     </li>
     <li>|____ Hobbies and Personal Development
       <ul>
+        <li>|____ Gym and Running (2022 - present)</li>
+        <li>|____ Building Chatbots (2020 - present)</li>
+      </ul>
+    </li>
+  </ul>
+</body>
+</html>
+
         <li>|____ Gym and Running (2022 - present)</li>
         <li>|____ Building Chatbots (2020 - present)</li>
       </ul>
