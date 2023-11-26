@@ -1,5 +1,5 @@
 ## Hello, World
-ฅ^•ﻌ•^ Hey! I'm Yasmine, an ex Tech Community Manager and Developer from Brazil, I mostly code Automations and Chatbots and also take adventures with Software Testing and Front-end. 
+ฅ^•ﻌ•^ Hey! I'm Yasmine, a Tech Community Manager and Developer from Brazil, I mostly code Automations and Chatbots and also take adventures with Software Testing and Front-end. 
 I'm the creator of [CodeConcepts](https://github.com/YasmineMaria/CodeConcepts.git) - Tech and Code Concepts explained by me 🎧
 
 <table width="960">
