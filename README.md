@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**YasmineMaria/YasmineMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello :^) | Know my journey...
+### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡°✩˖°.🪐°. ⋆ ･:
+|
+|____ Education and Training
+|    |____ Front-End Programming (2010)
+|    |____ English (2014)
+|    |____ Bachelor's in Advertising and Publicity at Facottur/Uninovo (2022 - present)
+|    |____ Stanford Member (2023 - present)
+|    |____ Cultura Inglesa Education (2016)
+|         |____ Intermediate English
+|____ Professional Experience
+|    |____ Community Manager (2020 - 2023)
+|    |____ Lessons with Norm Church, Former Apple Speaker (2020 - present)
+|
+|____ Hobbies and Personal Development
+|     |____ Gym and Running (2022 - present)
+|     |____ Building Chatbots (2020 - present)
+|     
