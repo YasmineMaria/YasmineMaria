@@ -6,7 +6,7 @@ I'm the creator of [CodeConcepts](https://github.com/YasmineMaria/CodeConcepts.g
   <tr>
     <td valign="top" width="50%">
     
-      #### 🎧 [CodeConcepts]([https://tw93.fun](https://github.com/YasmineMaria/CodeConcepts.git)
+      #### 🎧 [CodeConcepts](https://github.com/YasmineMaria/CodeConcepts.git)
 
       <!-- blog starts -->
       * [Coming soon!](https://edit) - 2023-11-26
