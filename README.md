@@ -1,4 +1,4 @@
-### Hello :^) | Know my journey...
+### Life is not a 100-meter race; it is a marathon!
 ### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡°✩˖°.🪐°. ⋆ ･:
 <!DOCTYPE html>
 <html>
