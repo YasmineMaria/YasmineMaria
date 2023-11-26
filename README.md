@@ -2,9 +2,6 @@
 ### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡°✩˖°.🪐°. ⋆ ･:
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Summary</title>
-</head>
 <body>
   <ul>
     <li>|____ Education and Training
