@@ -18,3 +18,8 @@
 - Building Chatbots (2020 - present) 🤖
 
 
+Natural Product ------ Medicinal Chemistry ------ Organo-Chemistry ------ Scientist/Engineer ------ Development ------ Forcefield
+      |                     |                      |                   |                   |                 |
+      |                     |                      |                   |                   |                 |
+     2014                  2015                   2016                2017                2020              2021
+      |.....................|......................|...................|...................|.................|
