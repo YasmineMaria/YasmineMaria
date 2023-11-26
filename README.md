@@ -1,25 +1,13 @@
 ### Life is not a 100-meter race; it is a marathon!
 ### 🎈
 # Summary 🏃‍♂️🏃‍♀️
-## Education and Training 📚
-- Front-End Programming (2010)
-- English (2014)
-- Bachelor's in Advertising and Publicity at Facottur/Uninovo (2022 - present)
-- Stanford Member (2023 - present)
-- Cultura Inglesa Education (2016)
-  - Intermediate English
-
-## Professional Experience 💼
-- Community Manager (2020 - 2023)
-- Lessons with Norm Church, Former Apple Speaker (2020 - present)
-
-## Hobbies and Personal Development 🎯
-- Gym and Running (2022 - present) 🏋️‍♂️🏃‍♀️
-- Building Chatbots (2020 - present) 🤖
-
-
-Natural Product ------ Medicinal Chemistry ------ Organo-Chemistry ------ Scientist/Engineer ------ Development ------ Forcefield
-      |                     |                      |                   |                   |                 |
-      |                     |                      |                   |                   |                 |
-     2014                  2015                   2016                2017                2020              2021
-      |.....................|......................|...................|...................|.................|
+### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### |                         |                            |
+### |                         |                            |
+###2010 -------- 2014 ------------- 2016 ---------- 2020 ----------- 2022 ----------- 2023 ---- Present
+### |             |                  |               |                |                |
+### Front-End     English         Cultura          Lessons with     Bachelor's       Gym and
+### Programming                   Inglesa          Norm Church,     in Advertising   Running,
+###                                 Education       Former Apple     and Publicity    Building
+###                                                Speaker          at Facottur/    Chatbots
+###                                                                 Uninovo
