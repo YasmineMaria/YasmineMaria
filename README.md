@@ -1,6 +1,6 @@
 # Meu Roadmap de Desenvolvimento
 
-Como uma pessoa orientada à metas, decidi me fazer um desafio :^). Completar essa quantidade específica de projetos em 3 meses e observar meu repertório adquirido após esse estudo!
+Como uma pessoa orientada à metas, decidi me fazer um desafio :^). Completar essa quantidade específica de projetos em 30 dias e observar meu repertório adquirido após esse estudo!
 
 ## Projetos de Excel (0/5)
 - [ ] Projeto 1
