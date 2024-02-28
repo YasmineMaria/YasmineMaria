@@ -2,7 +2,7 @@
 
 
 ### Projetos de Excel e Automação (0/6) 
-- [ ] Projeto 1 | Projeto de Carteira Total
+- [ ] Projeto 1 | Projeto de Carteira Financeira
 - [ ] Projeto 2 | Projeto de Acompanhamento de Dividendos################  |     | ## Projetos de Automação : |           |                           |                           |                         ...
 - [ ] Projeto 3 | Projeto de Acompanhamento de Metas Financeiras  ---------------> Notificar à cada R$300,00 atingindo/ Notificar a Cada R$1200,00/ Notificar a cada R$3000,00/Notificar a Cada R$5000,00
 
