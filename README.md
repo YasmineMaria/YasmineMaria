@@ -13,7 +13,7 @@
 - [ ] Análise de Dados 3  - Visualização de dados de Lucro da Empresa de Saúde
 ---
 
-#### Progresso Geral: 0%
+#### Progresso Geral: 16.6%
 
 
 
